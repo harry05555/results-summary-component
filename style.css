@@ -24,3 +24,27 @@
     url("/assets/fonts/static/HankenGrotesk-ExtraBold.woff2") format("woff2"),
     url("/assets/fonts/static/HankenGrotesk-ExtraBold.woff") format("woff");
 }
+
+:root {
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-200: hsl(221, 100%, 96%);
+  --clr-neutral-300: hsl(241, 100%, 89%);
+
+  --clr-primary-400: hsl(223, 30%, 27%);
+
+  --clr-accent-red-400: hsl(0, 100%, 67%);
+  --clr-accent-yellow-400: hsl(39, 100%, 56%);
+  --clr-accent-green-400: hsl(166, 100%, 37%);
+  --clr-accent-blue-400: hsl(234, 85%, 45%);
+
+  --ff-base: Hanken Grotesk, sans-serif;
+
+  --fw-medium: 500;
+  --fw-bold: 700;
+  --fw-ExtraBold: 800;
+
+  --fs-400: 1.125rem;
+  --fs-800: 1.5rem;
+  --fs-1100: 2rem;
+  --fs-1500: 4.5rem;
+}
