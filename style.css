@@ -132,3 +132,10 @@ textarea:not([rows]) {
 :target {
   scroll-margin-block: 5ex;
 }
+
+body {
+  font-family: var(--ff-base);
+  font-size: var(--fs-400);
+  font-weight: var(--fw-medium);
+  background-color: var(--clr-neutral-200);
+}
