@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Hanken Grotesk";
+  font-weight: 500;
+  font-display: swap;
+  src: local("Hanken Grotesk Medium"),
+    url("/assets/fonts/static/HankenGrotesk-Medium.woff2") format("woff2"),
+    url("/assets/fonts/static/HankenGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  font-weight: 700;
+  font-display: swap;
+  src: local("Hanken Grotesk Bold"),
+    url("/assets/fonts/static/HankenGrotesk-Bold.woff2") format("woff2"),
+    url("/assets/fonts/static/HankenGrotesk-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Hanken Grotesk";
+  font-weight: 800;
+  font-display: swap;
+  src: local("Hanken Grotesk ExtraBold"),
+    url("/assets/fonts/static/HankenGrotesk-ExtraBold.woff2") format("woff2"),
+    url("/assets/fonts/static/HankenGrotesk-ExtraBold.woff") format("woff");
+}
